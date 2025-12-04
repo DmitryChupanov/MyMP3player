@@ -1,0 +1,14 @@
+mymp3 pleer\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/croutine.c
+mymp3 pleer\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+mymp3 pleer\croutine.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+mymp3 pleer\croutine.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+mymp3 pleer\croutine.o: ../Core/Inc/FreeRTOSConfig.h
+mymp3 pleer\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+mymp3 pleer\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+mymp3 pleer\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+mymp3 pleer\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+mymp3 pleer\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+mymp3 pleer\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+mymp3 pleer\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+mymp3 pleer\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/croutine.h
+mymp3 pleer\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h

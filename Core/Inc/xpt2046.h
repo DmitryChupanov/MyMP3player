@@ -1,0 +1,20 @@
+/*
+ * xpt2046.h
+ */
+
+
+#ifndef XPT2046_H_
+#define XPT2046_H_
+
+#include "stdint.h"
+
+
+
+#define TOUCH_CS_SELECT      HAL_GPIO_WritePin(TOUCH_CS_GPIO_Port, TOUCH_CS_Pin, GPIO_PIN_RESET)
+#define TOUCH_CS_UNSELECT    HAL_GPIO_WritePin(TOUCH_CS_GPIO_Port, TOUCH_CS_Pin, GPIO_PIN_SET)
+
+uint8_t ILI9341_TouchGetCoordinates(uint16_t *x, uint16_t *y);
+
+#endif
+
+/**/

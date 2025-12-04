@@ -1,0 +1,15 @@
+mymp3 pleer\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/queue.c
+mymp3 pleer\queue.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+mymp3 pleer\queue.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+mymp3 pleer\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+mymp3 pleer\queue.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+mymp3 pleer\queue.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+mymp3 pleer\queue.o: ../Core/Inc/FreeRTOSConfig.h
+mymp3 pleer\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+mymp3 pleer\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+mymp3 pleer\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+mymp3 pleer\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+mymp3 pleer\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+mymp3 pleer\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+mymp3 pleer\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+mymp3 pleer\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/queue.h

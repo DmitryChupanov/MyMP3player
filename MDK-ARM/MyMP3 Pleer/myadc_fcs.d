@@ -1,0 +1,10 @@
+mymp3 pleer\myadc_fcs.o: ..\Core\Src\MyADC_FCs.c
+mymp3 pleer\myadc_fcs.o: ../Core/Inc/MyADC_FCs.h
+mymp3 pleer\myadc_fcs.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+mymp3 pleer\myadc_fcs.o: ../Drivers/CMSIS/Device/ST/STM32H7xx/Include/stm32h750xx.h
+mymp3 pleer\myadc_fcs.o: ../Drivers/CMSIS/Include/core_cm7.h
+mymp3 pleer\myadc_fcs.o: ../Drivers/CMSIS/Include/cmsis_version.h
+mymp3 pleer\myadc_fcs.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
+mymp3 pleer\myadc_fcs.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
+mymp3 pleer\myadc_fcs.o: ../Drivers/CMSIS/Include/mpu_armv7.h
+mymp3 pleer\myadc_fcs.o: ../Drivers/CMSIS/Device/ST/STM32H7xx/Include/system_stm32h7xx.h

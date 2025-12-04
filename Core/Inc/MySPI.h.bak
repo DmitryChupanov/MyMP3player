@@ -1,0 +1,17 @@
+/**
+  ******************************************************************************
+  * @file    MyVS1053b.h
+  * @brief   This file contains headers of my functions.
+  ******************************************************************************
+*/
+
+ /* Define to prevent recursive inclusion -------------------------------------*/
+ 
+#ifndef __MYVS1053B_H
+#define __MYVS1053B_H
+
+#include "stdint.h"
+
+
+
+#endif /* __MYVS1053B_H */
